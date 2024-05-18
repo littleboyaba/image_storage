@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457854935607",
+    "project_id": "image-storage-b8987",
+    "storage_bucket": "image-storage-b8987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457854935607:android:fe23d5dc5b01bd258e15b2",
+        "android_client_info": {
+          "package_name": "com.example.image_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_KXShjR6UdWC3Irk3g_26lSbyNN4sQMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
